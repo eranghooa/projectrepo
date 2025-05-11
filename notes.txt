@@ -2,3 +2,4 @@ Main branch conflicting line
 Featurey branch edit - line 1
 Featurey branch edit - line 2
 
+Collaborator adds this important line
